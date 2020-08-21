@@ -2,7 +2,7 @@
 
 ## Descripción
 
-  Este codigo permite realizar automaticamente las encuestas de "https://www.miexperienciabkespana.com/" y obtener un codigo el cual se tiene que escribir en la parte anterior de un tiquet de Burguer King.
+  Este codigo permite realizar automaticamente las encuestas de "https://www.miexperienciabkespana.com/" y obtener un codigo el cual se tiene que escribir en la parte anterior de un tiquet de Burguer King. Conseguiras gratis un MiniSandy o un café.
   
 ![Tiquet](https://i.ibb.co/N6X1QXN/40290.jpg)
 
