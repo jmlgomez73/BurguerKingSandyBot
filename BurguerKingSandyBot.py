@@ -6,14 +6,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-
 driverPath = "C:/WINDOWS/chromedriver.exe"
 driver = webdriver.Chrome(executable_path=driverPath)
 driver.get('https://www.miexperienciabkespana.com/')
 
 info= input('Datos: (17441 14 08 08 28 pm)\n')
 info= info.split()
-
 
 #Introduccion de todos los datos
 def fase_1():
