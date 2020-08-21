@@ -2,7 +2,11 @@
 
 ## Descripción
 
-  Este codigo permite realizar automaticamente las encuestas de "https://www.miexperienciabkespana.com/"
+  Este codigo permite realizar automaticamente las encuestas de "https://www.miexperienciabkespana.com/" y obtener un codigo el cual se tiene que escribir en la parte anterior de un tiquet de Burguer King.
+  
+![Tiquet](https://i.ibb.co/N6X1QXN/40290.jpg)
+
+![miexperienciabkespaña](https://i.ibb.co/Rh4KcDX/descarga-1.png)
 
 ## Comenzando
 
@@ -21,6 +25,11 @@
         * Si usas el codigo *BurguerKingSandyBotArg.py* :
           * ```py -u "ruta del archivo BurguerKingSandyBot.py" 17441 14 08 08 28 pm``` (Debes tener definido el path de Python en las variables de entorno)
   
+## Comportamiento de la aplicación
+
+![Aplicacion](https://i.ibb.co/ZYdpxCN/descarga-2.png)
+
+
 ## Autor ✒️
 
 * **Jorge Manuel Lozano Gómez**
