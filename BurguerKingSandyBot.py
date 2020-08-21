@@ -10,7 +10,8 @@ driverPath = "C:/WINDOWS/chromedriver.exe"
 driver = webdriver.Chrome(executable_path=driverPath)
 driver.get('https://www.miexperienciabkespana.com/')
 
-info= input('Datos: (17441 14 08 08 28 pm)\n')
+print("Codigo establecimiento dia mes hora minuto meridiano")
+info= input('Ejemplo: (17441 14 08 08 28 pm)\n')
 info= info.split()
 
 #Introduccion de todos los datos
