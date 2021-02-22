@@ -12,9 +12,9 @@
 
 ### Prerequisitos ⚙️
 
-* [Python3](https://www.python.org/download/releases/3.0/).
+* [Python3](https://www.python.org/downloads/).
 * Selenium:
-  ``` pip install selenium```
+  ```pip install selenium```
 
 ## Ejecutando el codigo
 
